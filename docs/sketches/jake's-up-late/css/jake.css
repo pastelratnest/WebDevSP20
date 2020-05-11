@@ -1,0 +1,21 @@
+*   {
+    padding: 0;
+    margin: 0;
+}
+
+body    {
+    background-image: url(../images/noise.gif);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 80%;
+}
+
+audio   {
+    visibility: hidden;
+}
