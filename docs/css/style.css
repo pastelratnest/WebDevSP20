@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0 auto;
+    background: lavender;
+    font-family: 'Courier New', Courier, monospace;
+    width: 70vw;
+}
+
+a   {
+    color: black;
+}
+
+a:hover {
+    color: teal;
+}
+
+a:visited   {
+    color: black;
+}
