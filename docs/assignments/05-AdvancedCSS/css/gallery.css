@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: lavender;
+}
+
+h1 {
+    text-align: center;
+    padding: 1em;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 100vw;
+}
+
+img {
+    margin: 0.5em;
+    border: 3px solid black;
+}

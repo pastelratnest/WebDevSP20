@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: lavender;
+}
+
+h1 {
+    text-align: center;
+    padding: 1em;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 80vw;
+    height: 100vw;
+}
+
+#flex-menu  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: pink;
+    background: black;
+    border: 2px solid white;
+    padding: 1vw 2vw;
+}
+
+a:hover {
+    color: black;
+    background: pink;
+}
