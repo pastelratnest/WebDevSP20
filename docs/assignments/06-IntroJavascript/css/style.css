@@ -1,0 +1,40 @@
+.container {
+    vertical-align: top;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 0px 0px 0px gray;
+    transition: box-shadow 0.5s;
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+
+#left {
+    background: lightslategray;
+    color: white;
+}
+
+#left:hover {
+    box-shadow: -3px -3px 20px 5px black;
+}
+
+#right {
+    background: pink;
+    color: black;
+    height: auto;
+}
+
+#right:hover {
+    box-shadow: 3px 3px 20px 5px black;
+}
+
+form > * {
+    margin: 8px 0;
+}
