@@ -29,6 +29,7 @@ input {
     background: pink;
     color: black;
     height: auto;
+    word-wrap: break-word;
 }
 
 #right:hover {
